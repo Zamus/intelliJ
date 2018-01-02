@@ -44,7 +44,9 @@
         <root url="jar:///usr/local/Cellar/groovysdk/2.4.9/lib/xstream-1.4.7.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/testng-6.8.13-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
