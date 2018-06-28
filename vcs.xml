@@ -218,6 +218,10 @@
           <option name="url" value="https://github.com/mulesoft/arm-ui" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mulesoft-labs/am-automation-client" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
